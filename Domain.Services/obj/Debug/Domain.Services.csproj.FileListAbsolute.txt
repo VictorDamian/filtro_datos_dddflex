@@ -1,0 +1,18 @@
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.dll
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.pdb
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.dll
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.pdb

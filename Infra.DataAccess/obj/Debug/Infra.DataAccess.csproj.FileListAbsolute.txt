@@ -1,0 +1,27 @@
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.dll
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.pdb
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.dll
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.pdb
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CopyComplete
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.dll
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Infra.DataAccess.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\bin\Debug\Domain.Model.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Infra.DataAccess\obj\Debug\Infra.DataAccess.pdb

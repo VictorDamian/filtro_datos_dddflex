@@ -1,0 +1,18 @@
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.dll
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.pdb
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.dll
+C:\Users\Dantes\source\repos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.pdb
