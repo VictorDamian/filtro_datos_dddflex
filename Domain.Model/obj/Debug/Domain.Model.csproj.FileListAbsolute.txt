@@ -16,3 +16,8 @@ C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Layered
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.dll
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.pdb
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.dll
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Model\bin\Debug\Domain.Model.pdb
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.dll
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Model\obj\Debug\Domain.Model.pdb

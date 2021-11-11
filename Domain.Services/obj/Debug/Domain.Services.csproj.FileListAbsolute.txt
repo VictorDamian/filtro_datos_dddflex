@@ -16,3 +16,9 @@ C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Layered
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csproj.CoreCompileInputs.cache
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.dll
 C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.pdb
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.dll
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Services\bin\Debug\Domain.Services.pdb
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csproj.AssemblyReference.cache
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.csproj.CoreCompileInputs.cache
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.dll
+D:\proyectos\IM - github\C#.NET\LayeredDDDFlex\Domain.Services\obj\Debug\Domain.Services.pdb
